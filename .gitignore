@@ -21,6 +21,7 @@ sdist/
 var/
 wheels/
 share/python-wheels/
+kokoro_server/
 *.egg-info/
 .installed.cfg
 *.egg
